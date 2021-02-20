@@ -1,2 +1,2 @@
-# modeling_neuronal_network
+# modelingi neuronal network
 modeling neuronal network
